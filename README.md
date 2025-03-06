@@ -2,7 +2,7 @@
   <h2>Hi, I'm Shine! 👋 </h2>
   <ul>
   ⚡ Wanna be a goooood developer</br>
-  🌱 Taking one last couse to graduate as CPP in Seneca College<br>
+  🌱 Graduated Seneca College CPP<br>
   👯 Currently work as Full-Stack Software Developer at TECHCOM inc.<br>    
   </ul>
 </div>
