@@ -1,5 +1,5 @@
 <div>
-  <h2>Hi, I'm Shine! 👋 </h2>
+  <h2>Hi, I'm Villanelle! 👋 </h2>
   <ul>
   ⚡ Wanna be a goooood developer</br>
   🌱 Graduated Seneca College CPP<br>
